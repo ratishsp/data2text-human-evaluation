@@ -43,4 +43,6 @@ python fact_verification_rotowire.py -input_path data/test_json/rotowire_test.js
     -output_file data/outputs/rotowire_fact.csv
 ```
 
+## Acknowledgements
+Some code for creating the input tables using pandas for RotoWire dataset is due to @swiseman.
 
